@@ -13,7 +13,10 @@ SSAFY 8기 19반 cs스터디
 |                                              [Kim YoungSeo]()                                              |                                                [Lee YeEun]()                                                |                                              [Lee SangWon]()                                               |                                                 [Jo MinSu]()                                                 |
 
 ## 🔗Links
-👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖  [🔗Link](https://github.com/gyoogle/tech-interview-for-developer)
+- 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖  [🔗Link](https://github.com/gyoogle/tech-interview-for-developer)  
+- 💻 신입 개발자로서 준비를 하기 위해 지식을 정리하는 공간 👨‍💻 [🔗Link](https://github.com/WooVictory/Ready-For-Tech-Interview)  
+- { 고퀄리티⚡개발 컨텐츠 모음 } [🔗Link](https://github.com/Integerous/goQuality-dev-contents)  
+- Technical Interview Guidelines for Beginners [🔗Link](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 # Contents
 ## 📌Network
