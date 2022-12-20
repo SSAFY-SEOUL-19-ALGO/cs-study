@@ -4,17 +4,17 @@ SSAFY 8기 19반 cs스터디
 ## Member
 **Leader : Park Yunhwan**
 
-| [<img src="https://avatars.githubusercontent.com/u/47595515?s=40&v=4" width="100">](https://github.com/SadoRuin) | [<img src="https://avatars.githubusercontent.com/u/62232531?v=4" width="100">](https://github.com/wlsgh7608) |  [<img src="https://avatars.githubusercontent.com/u/55372995?v=4" width="100">](https://github.com/devjunmo)  | [<img src="https://avatars.githubusercontent.com/u/43868550?v=4" width="100">](https://github.com/KangSuzy)  | [<img src="https://avatars.githubusercontent.com/u/80434024?v=4" width="100">](https://github.com/koy4648) |
-|:----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------|
-|              [📖 Park YunHwan](https://sadoruin-notes.notion.site/5c51dcd873f24feb86a75bb071d85855)              |           [📖 Kong JinHo](https://meadow-pram-047.notion.site/cs-8ea8d7f0d60c4a7890093edcb2e29a1d)           |              [📖 Yang JunMo](https://github.com/devjunmo/TIL/blob/main/CS_Study/csStudyWiki.md)               |                               [📖 Kang SooJi](https://github.com/KangSuzy/TIL)                               | [📖 Kim YoungSeo](https://telling-starburst-b5b.notion.site/bf9963d8c0b44ac2a16649a76bad646b)              |
-|   [<img src="https://avatars.githubusercontent.com/u/103018534?v=4" width="100">](https://github.com/Dodamon)    |  [<img src="https://avatars.githubusercontent.com/u/55802893?v=4" width="100">](https://github.com/nowgnas)  | [<img src="https://avatars.githubusercontent.com/u/102861657?v=4" width="100">](https://github.com/minsu121x) | [<img src="https://avatars.githubusercontent.com/u/73810834?v=4" width="100"/>](https://github.com/Ryeohwan) |                                                                                                            |
-|    [📖 Lee YeEun](https://chlorinated-koi-491.notion.site/Computer-science-beffd78d679242a18e40e59cfc7c4205)     |                            [📖 Lee SangWon](https://github.com/nowgnas/CS-Study)                             |            [📖 Jo MinSu](https://charm-ocelot-88c.notion.site/CS-9b9a452599234b419afbbd803dd40c34)            |                              [📖 Ahn RyeoHwan](https://github.com/Ryeohwan/TRL)                              |                                                                                                            |
+| [<img src="https://avatars.githubusercontent.com/u/47595515?s=40&v=4" width="100">](https://github.com/SadoRuin) | [<img src="https://avatars.githubusercontent.com/u/62232531?v=4" width="100">](https://github.com/wlsgh7608) |  [<img src="https://avatars.githubusercontent.com/u/55372995?v=4" width="100">](https://github.com/devjunmo)  |   [<img src="https://avatars.githubusercontent.com/u/80434024?v=4" width="100">](https://github.com/koy4648)   |
+|:----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+|              [📖 Park YunHwan](https://sadoruin-notes.notion.site/5c51dcd873f24feb86a75bb071d85855)              |           [📖 Kong JinHo](https://meadow-pram-047.notion.site/cs-8ea8d7f0d60c4a7890093edcb2e29a1d)           |              [📖 Yang JunMo](https://github.com/devjunmo/TIL/blob/main/CS_Study/csStudyWiki.md)               |        [📖 Kim YoungSeo](https://telling-starburst-b5b.notion.site/CS-b494bcb89082445cb48b230788f269c2)        |
+|   [<img src="https://avatars.githubusercontent.com/u/103018534?v=4" width="100">](https://github.com/Dodamon)    |  [<img src="https://avatars.githubusercontent.com/u/55802893?v=4" width="100">](https://github.com/nowgnas)  | [<img src="https://avatars.githubusercontent.com/u/102861657?v=4" width="100">](https://github.com/minsu121x) |  [<img src="https://avatars.githubusercontent.com/u/73810834?v=4" width="100"/>](https://github.com/Ryeohwan)  |
+|    [📖 Lee YeEun](https://chlorinated-koi-491.notion.site/Computer-science-beffd78d679242a18e40e59cfc7c4205)     |                            [📖 Lee SangWon](https://github.com/nowgnas/CS-Study)                             |            [📖 Jo MinSu](https://charm-ocelot-88c.notion.site/CS-9b9a452599234b419afbbd803dd40c34)            |                               [📖 Ahn RyeoHwan](https://github.com/Ryeohwan/TRL)                               |
 
 ### 싸탈의 전당
 
-| [<img src="https://avatars.githubusercontent.com/u/46861704?v=4" width="100"/>](https://github.com/YunYongWoon) | [<img src="https://avatars.githubusercontent.com/u/45252618?v=4" width="100">](https://github.com/yejin013) |
-|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| [📖 Yun YongWoon](https://velog.io/@yuyun0124)                                                                  | [📖 Chae YeJin](https://yj-ssafy.notion.site/a95bc74fa67045e794c699f1e0d810cc)                              |
+| [<img src="https://avatars.githubusercontent.com/u/46861704?v=4" width="100"/>](https://github.com/YunYongWoon) | [<img src="https://avatars.githubusercontent.com/u/45252618?v=4" width="100">](https://github.com/yejin013) | [<img src="https://avatars.githubusercontent.com/u/43868550?v=4" width="100">](https://github.com/KangSuzy) |
+|:---------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+|                                 [📖 Yun YongWoon](https://velog.io/@yuyun0124)                                  |               [📖 Chae YeJin](https://yj-ssafy.notion.site/a95bc74fa67045e794c699f1e0d810cc)                |                              [📖 Kang SooJi](https://github.com/KangSuzy/TIL)                               |
 
 
 ## 🔗Links
@@ -57,15 +57,33 @@ SSAFY 8기 19반 cs스터디
 |     | HTTP의 상태코드와 메서드(GET, POST, PUT, PATCH, DELETE)                                                                                                                   | 조민수 |
 |     | REST API                                                                                                                                                         | 이예은 |
 | 7주차 | 네트워크를 이루는 장치의 이해                                                                                                                                                 |     |
-|     | 네트워크를 이루는 장치 #1 애플리케이션 계층                                                                                                                                        |     |
-|     | 네트워크를 이루는 장치 #2 전송 계층                                                                                                                                            |     |
-|     | 네트워크를 이루는 장치 #3 인터넷 계층                                                                                                                                           |     |
-|     | 네트워크를 이루는 장치 #4 데이터링크계층                                                                                                                                          |     |
-|     | 네트워크를 이루는 장치 #5 물리계층                                                                                                                                             |     |
-|     | 유선LAN의 기술 : 전이중화 통신, CSMA/CD                                                                                                                                     |     |
-|     | 무선LAN을 이루는 기술 : 반이중화 통신, CSMA/CA, 와이파이, BSS, ESS                                                                                                                 |     |
-|     | DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #1                                                                                                                          |     |
-|     | DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #2                                                                                                                          |     |
+|     | 네트워크를 이루는 장치 #1 애플리케이션 계층                                                                                                                                        | 김영서 |
+|     | 네트워크를 이루는 장치 #2 전송 계층                                                                                                                                            | 박윤환 |
+|     | 네트워크를 이루는 장치 #3 인터넷 계층                                                                                                                                           | 박윤환 |
+|     | 네트워크를 이루는 장치 #4 데이터링크계층                                                                                                                                          | 조민수 |
+|     | 네트워크를 이루는 장치 #5 물리계층                                                                                                                                             | 공진호 |
+|     | 유선LAN의 기술 : 전이중화 통신, CSMA/CD                                                                                                                                     | 안려환 |
+|     | 무선LAN을 이루는 기술 : 반이중화 통신, CSMA/CA, 와이파이, BSS, ESS                                                                                                                 | 이예은 |
+|     | DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #1                                                                                                                          | 양준모 |
+|     | DEEP DIVE : 대규모 트래픽으로 인한 서버 과부화 해결방법 #2                                                                                                                          | 이상원 |
+
+## 📌Database
+
+| 주차  | 제목                                                             | 발표자 |
+|-----|----------------------------------------------------------------|-----|
+| 8주차 | ERD(Entity Relation Diagram)의 기본                               |     |
+|     | DEEP DIVE : 쇼핑몰 ERD 구축해보기                                      |     |
+|     | 트랜잭션, 커밋, 롤백 그리고 트랜잭션 전파                                       |     |
+|     | 트랜잭션의 특징 ACID                                                  |     |
+|     | 트랜잭션의 격리성                                                      |     |
+|     | 트랜잭션의 격리수준에 따른 현상 (팬텀리드, 더티리드 등)                               |     |
+|     | 트랜잭션의 격리수준(SERIALIZABLE, REPEATABLE_READ 등)                    |     |
+|     | 관계형데이터베이스와 NoSQL 데이터베이스의 차이와 MySQL, PostgreSQL, MongoDB, Redis |     |
+|     | 데이터베이스의 핵심, 스토리지엔진(innoDB, MyISAM, wiredtiger 차이)              |     |
+|     | 인덱스의 구조와 효율적인 이유                                               |     |
+|     | 인덱스 최적화 기법                                                     |     |
+|     | DEEP DIVE : clustered index와 non-clustered index와의 차이          |     |
+
 
 ----
 <img height="50" src="https://user-images.githubusercontent.com/47595515/198835961-bd0e5b57-8f66-4308-a789-70ef11444cf4.png" width="221" alt="To Be Continued..."/>

@@ -5,7 +5,7 @@
 
 ## ICMP (Internet Control Message Protocol)
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c0e24bb3-5e07-48de-a08d-d1f98da74c9f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T134559Z&X-Amz-Expires=86400&X-Amz-Signature=fe98461163c3bef822cb64a988c1512d979afb21cf1333b4887e1f2a5e6cd784&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://user-images.githubusercontent.com/47595515/207835258-d1e72081-605b-409e-9671-af3305cc7766.png)
 
 - 노드와 노드 사이에서 통신이 잘되나를 확인할때 쓰는 프로토콜
 - 데이터 교환에 사용되지 않는 프로토콜

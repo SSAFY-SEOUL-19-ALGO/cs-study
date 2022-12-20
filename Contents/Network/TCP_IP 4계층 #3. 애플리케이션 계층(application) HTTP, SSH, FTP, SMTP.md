@@ -9,14 +9,14 @@
 - 지금은 브라우저 뿐만 아니라 서버와 서버간의 통신할 때도 많이 이용
 - 헤더를 통한 확장이 쉬움
 
-  ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b2fd50fa-87d9-4cb8-8832-8397d6d84256/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T135252Z&X-Amz-Expires=86400&X-Amz-Signature=4386dd61f7eb9cf198f2695b550b93b4282e42f2fa22a70d0783e7813f0528a7&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+  ![Untitled](https://user-images.githubusercontent.com/47595515/207835227-4e4b0de2-0f40-46fe-af97-81d2e6dd7b9c.png)
 
     - 헤더에 쉽게 다른 값들을 추가할 수 있다
 - stateless
     - 동일한 연결에서 연속적으로 수행되는 두 요청 사이에 연속적인 상태(state)값은 없다
     - 서버에서는 클라이언트를 기억하지 못한다
 
-  ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8cfdafe4-50c7-40eb-9f3b-99b09e53be93/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221112T135312Z&X-Amz-Expires=86400&X-Amz-Signature=a2d8e91fd6c2f8ec75a644c62498fcac25eeb0dc8c3194417fb5b278b8737c1a&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+  ![Untitled](https://user-images.githubusercontent.com/47595515/207835247-345737b1-0ec9-43fd-92b5-ba90985451d9.png)
 
 
 ## SSH (Secure SHell Protocol)

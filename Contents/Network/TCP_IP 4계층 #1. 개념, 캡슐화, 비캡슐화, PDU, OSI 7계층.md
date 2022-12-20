@@ -5,7 +5,7 @@
 
 ## 계층구조
 
-![Untitled](https://telling-starburst-b5b.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2ac67789-8407-4545-bd9f-04a964704d6b%2FUntitled.png?table=block&id=aebb4f0a-96e2-4e62-8e98-46bb266dec2c&spaceId=728ce3e0-7b4e-47d4-8b23-cbdcc5d949b1&width=2000&userId=&cache=v2)
+![Untitled](https://user-images.githubusercontent.com/47595515/207834576-e961b7e2-feb3-4724-9ad0-62443f8ee527.png)
 
 - 특정 계층이 변경되었을 때, 다른 계층이 영향을 받지 않도록 설계되어 있어 독립적이다.
 
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>DNS</td>
-    <td>도메인 이름과 IP주소를 매핑해주는 서버.<br> 예를 들어 www.naver.com에 DNS쿼리가 오면 [Root DNS]→[com.DNS]→[naver.DNS]→[www.DNS]과정을 거쳐 완벽한 주소를 찾아 IP주소를 매핑한다. 이를 통해 IP주소가 바뀌어도 사용자들에게 똑같은 도메인 주소로 서비스할 수 있다.</td>
+    <td>도메인 이름과 IP주소를 매핑해주는 서버.<br> 예를 들어 www.<hi>naver.com에 DNS쿼리가 오면 [Root DNS]→[com.DNS]→[naver.DNS]→[www.<hi>DNS]과정을 거쳐 완벽한 주소를 찾아 IP주소를 매핑한다. 이를 통해 IP주소가 바뀌어도 사용자들에게 똑같은 도메인 주소로 서비스할 수 있다.</td>
   </tr>
 </table>
 
@@ -69,7 +69,7 @@
 
 - 계층 간 데이터 송수신 과정: 애플리케이션 계층에서부터 링크계층까지 요청값이 캡슐화 과정을 거쳐 전달→ 상대의 링크 계층을 통해 해당 서버와 통신→링크 계층으로부터 애플리케이션 계층까지 비 캡슐화 과정을 거쳐 전송
     
-    ![Untitled](https://telling-starburst-b5b.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffa7960e5-9c5e-4de0-b1c9-b84490aca31e%2FUntitled.png?table=block&id=e79d34f7-fb62-43b9-8cbd-1114123de8d4&spaceId=728ce3e0-7b4e-47d4-8b23-cbdcc5d949b1&width=2000&userId=&cache=v2)
+    ![Untitled](https://user-images.githubusercontent.com/47595515/207834590-d8cf88d4-2cb5-4ec2-b139-eda9188bee7e.png)
     
 
 ### 캡슐화 과정
@@ -77,14 +77,14 @@
 - 상위 계층의 헤더와 데이터를 하위 계층의 데이터 부분에 포함시키고, 해당 계층의 헤더를 삽입하는 과정
 - 애플리케이션 계층의 데이터가 전송 계층으로 전달되면서 ‘세그먼트’ 또는 ‘데이터그램’화 되며 TCP(L4) 헤더가 붙여지게된다.
 
-![Untitled.png](https://telling-starburst-b5b.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0190517c-cbfe-4179-9656-47387bad9c21%2FUntitled.png?table=block&id=9f51fac2-66de-4da8-a2af-822359e5e528&spaceId=728ce3e0-7b4e-47d4-8b23-cbdcc5d949b1&width=2000&userId=&cache=v2)
+![Untitled.png](https://user-images.githubusercontent.com/47595515/207834596-44f489d2-07d4-45a5-ac14-cae02f06a13c.png)
 
 ### 비캡슐화 과정
 
 - 하위 계층에서 상위 계층으로 가며 각 계층의 헤더 부분을 제거하는 과정
 - 캡슐화된 데이터를 받게 되면 링크 계층에서부터 타고 올라가면서 최종적으로 사용자에게 메시지(애플리케이션의 PDU)로 전달된다.
 
-![Untitled](https://telling-starburst-b5b.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff44f42a8-3d01-46dc-907e-193789c3d0cc%2FUntitled.png?table=block&id=e50839b2-767a-4f4a-9e05-09fc7990986a&spaceId=728ce3e0-7b4e-47d4-8b23-cbdcc5d949b1&width=2000&userId=&cache=v2)
+![Untitled](https://user-images.githubusercontent.com/47595515/207834613-281da847-4b17-4ef1-8f9a-09d01c8e9e50.png)
 
 ## PDU(Protocol Data Unit)
 
