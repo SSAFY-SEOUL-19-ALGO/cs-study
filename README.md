@@ -4,11 +4,11 @@ SSAFY 8기 19반 cs스터디
 ## Member
 **Leader : Park Yunhwan**
 
-| [<img src="https://avatars.githubusercontent.com/u/47595515?s=40&v=4" width="100">](https://github.com/SadoRuin) | [<img src="https://avatars.githubusercontent.com/u/62232531?v=4" width="100">](https://github.com/wlsgh7608) |  [<img src="https://avatars.githubusercontent.com/u/55372995?v=4" width="100">](https://github.com/devjunmo)  |   [<img src="https://avatars.githubusercontent.com/u/80434024?v=4" width="100">](https://github.com/koy4648)   |
-|:----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-|              [📖 Park YunHwan](https://sadoruin-notes.notion.site/5c51dcd873f24feb86a75bb071d85855)              |           [📖 Kong JinHo](https://meadow-pram-047.notion.site/cs-8ea8d7f0d60c4a7890093edcb2e29a1d)           |              [📖 Yang JunMo](https://github.com/devjunmo/TIL/blob/main/CS_Study/csStudyWiki.md)               |        [📖 Kim YoungSeo](https://telling-starburst-b5b.notion.site/CS-b494bcb89082445cb48b230788f269c2)        |
-|   [<img src="https://avatars.githubusercontent.com/u/103018534?v=4" width="100">](https://github.com/Dodamon)    |  [<img src="https://avatars.githubusercontent.com/u/55802893?v=4" width="100">](https://github.com/nowgnas)  | [<img src="https://avatars.githubusercontent.com/u/102861657?v=4" width="100">](https://github.com/minsu121x) |  [<img src="https://avatars.githubusercontent.com/u/73810834?v=4" width="100"/>](https://github.com/Ryeohwan)  |
-|    [📖 Lee YeEun](https://chlorinated-koi-491.notion.site/Computer-science-beffd78d679242a18e40e59cfc7c4205)     |                            [📖 Lee SangWon](https://github.com/nowgnas/CS-Study)                             |            [📖 Jo MinSu](https://charm-ocelot-88c.notion.site/CS-9b9a452599234b419afbbd803dd40c34)            |                               [📖 Ahn RyeoHwan](https://github.com/Ryeohwan/TRL)                               |
+| [<img src="https://avatars.githubusercontent.com/u/47595515?s=40&v=4" width="100">](https://github.com/SadoRuin) | [<img src="https://avatars.githubusercontent.com/u/62232531?v=4" width="100">](https://github.com/wlsgh7608)  | [<img src="https://avatars.githubusercontent.com/u/55372995?v=4" width="100">](https://github.com/devjunmo)  |  [<img src="https://avatars.githubusercontent.com/u/80434024?v=4" width="100">](https://github.com/koy4648)  | [<img src="https://avatars.githubusercontent.com/u/103018534?v=4" width="100">](https://github.com/Dodamon) |
+|:----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+|              [📖 Park YunHwan](https://sadoruin-notes.notion.site/5c51dcd873f24feb86a75bb071d85855)              |           [📖 Kong JinHo](https://meadow-pram-047.notion.site/cs-8ea8d7f0d60c4a7890093edcb2e29a1d)            |              [📖 Yang JunMo](https://github.com/devjunmo/TIL/blob/main/CS_Study/csStudyWiki.md)              |       [📖 Kim YoungSeo](https://telling-starburst-b5b.notion.site/CS-b494bcb89082445cb48b230788f269c2)       |  [📖 Lee YeEun](https://chlorinated-koi-491.notion.site/Computer-science-beffd78d679242a18e40e59cfc7c4205)  |
+|    [<img src="https://avatars.githubusercontent.com/u/55802893?v=4" width="100">](https://github.com/nowgnas)    | [<img src="https://avatars.githubusercontent.com/u/102861657?v=4" width="100">](https://github.com/minsu121x) | [<img src="https://avatars.githubusercontent.com/u/73810834?v=4" width="100"/>](https://github.com/Ryeohwan) | [<img src="https://avatars.githubusercontent.com/u/42470768?v=4" width="100"/>](https://github.com/irang6v6) |                                                                                                             |
+|                              [📖 Lee SangWon](https://github.com/nowgnas/CS-Study)                               |            [📖 Jo MinSu](https://charm-ocelot-88c.notion.site/CS-9b9a452599234b419afbbd803dd40c34)            |                              [📖 Ahn RyeoHwan](https://github.com/Ryeohwan/TRL)                              |                                               [📖 Nam Irang](https://irangeight.notion.site/a219bdf343844c3d9a3cb554d085af79)                                               |                                                                                                             |
 
 ### 싸탈의 전당
 
@@ -73,16 +73,16 @@ SSAFY 8기 19반 cs스터디
 |-----|----------------------------------------------------------------|-----|
 | 8주차 | ERD(Entity Relation Diagram)의 기본                               |     |
 |     | DEEP DIVE : 쇼핑몰 ERD 구축해보기                                      |     |
-|     | 트랜잭션, 커밋, 롤백 그리고 트랜잭션 전파                                       |     |
-|     | 트랜잭션의 특징 ACID                                                  |     |
-|     | 트랜잭션의 격리성                                                      |     |
-|     | 트랜잭션의 격리수준에 따른 현상 (팬텀리드, 더티리드 등)                               |     |
-|     | 트랜잭션의 격리수준(SERIALIZABLE, REPEATABLE_READ 등)                    |     |
-|     | 관계형데이터베이스와 NoSQL 데이터베이스의 차이와 MySQL, PostgreSQL, MongoDB, Redis |     |
-|     | 데이터베이스의 핵심, 스토리지엔진(innoDB, MyISAM, wiredtiger 차이)              |     |
-|     | 인덱스의 구조와 효율적인 이유                                               |     |
-|     | 인덱스 최적화 기법                                                     |     |
-|     | DEEP DIVE : clustered index와 non-clustered index와의 차이          |     |
+|     | 트랜잭션, 커밋, 롤백 그리고 트랜잭션 전파                                       | 이상원 |
+|     | 트랜잭션의 특징 ACID                                                  | 이상원 |
+|     | 트랜잭션의 격리성                                                      | 김영서 |
+|     | 트랜잭션의 격리수준에 따른 현상 (팬텀리드, 더티리드 등)                               | 김영서 |
+|     | 트랜잭션의 격리수준(SERIALIZABLE, REPEATABLE_READ 등)                    | 김영서 |
+|     | 관계형데이터베이스와 NoSQL 데이터베이스의 차이와 MySQL, PostgreSQL, MongoDB, Redis | 공진호 |
+|     | 데이터베이스의 핵심, 스토리지엔진(innoDB, MyISAM, wiredtiger 차이)              | 공진호 |
+|     | 인덱스의 구조와 효율적인 이유                                               | 조민수 |
+|     | 인덱스 최적화 기법                                                     | 조민수 |
+|     | DEEP DIVE : clustered index와 non-clustered index와의 차이          | 조민수 |
 
 
 ----
