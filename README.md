@@ -4,17 +4,24 @@ SSAFY 8기 19반 cs스터디
 ## Member
 **Leader : Park Yunhwan**
 
-| [<img src="https://avatars.githubusercontent.com/u/47595515?s=40&v=4" width="100">](https://github.com/SadoRuin) | [<img src="https://avatars.githubusercontent.com/u/62232531?v=4" width="100">](https://github.com/wlsgh7608)  | [<img src="https://avatars.githubusercontent.com/u/55372995?v=4" width="100">](https://github.com/devjunmo)  |  [<img src="https://avatars.githubusercontent.com/u/80434024?v=4" width="100">](https://github.com/koy4648)  | [<img src="https://avatars.githubusercontent.com/u/103018534?v=4" width="100">](https://github.com/Dodamon) |
-|:----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-|              [📖 Park YunHwan](https://sadoruin-notes.notion.site/5c51dcd873f24feb86a75bb071d85855)              |           [📖 Kong JinHo](https://meadow-pram-047.notion.site/cs-8ea8d7f0d60c4a7890093edcb2e29a1d)            |              [📖 Yang JunMo](https://github.com/devjunmo/TIL/blob/main/CS_Study/csStudyWiki.md)              |       [📖 Kim YoungSeo](https://telling-starburst-b5b.notion.site/CS-b494bcb89082445cb48b230788f269c2)       |  [📖 Lee YeEun](https://chlorinated-koi-491.notion.site/Computer-science-beffd78d679242a18e40e59cfc7c4205)  |
-|    [<img src="https://avatars.githubusercontent.com/u/55802893?v=4" width="100">](https://github.com/nowgnas)    | [<img src="https://avatars.githubusercontent.com/u/102861657?v=4" width="100">](https://github.com/minsu121x) | [<img src="https://avatars.githubusercontent.com/u/73810834?v=4" width="100"/>](https://github.com/Ryeohwan) | [<img src="https://avatars.githubusercontent.com/u/42470768?v=4" width="100"/>](https://github.com/irang6v6) |                                                                                                             |
-|                              [📖 Lee SangWon](https://github.com/nowgnas/CS-Study)                               |            [📖 Jo MinSu](https://charm-ocelot-88c.notion.site/CS-9b9a452599234b419afbbd803dd40c34)            |                              [📖 Ahn RyeoHwan](https://github.com/Ryeohwan/TRL)                              |               [📖 Nam Irang](https://irangeight.notion.site/a219bdf343844c3d9a3cb554d085af79)                |                                                                                                             |
+| [<img src="https://avatars.githubusercontent.com/u/47595515?s=40&v=4" width="100">](https://github.com/SadoRuin) | [<img src="https://avatars.githubusercontent.com/u/62232531?v=4" width="100">](https://github.com/wlsgh7608) | [<img src="https://avatars.githubusercontent.com/u/55372995?v=4" width="100">](https://github.com/devjunmo)  | [<img src="https://avatars.githubusercontent.com/u/103018534?v=4" width="100">](https://github.com/Dodamon) |
+|:----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+|              [📖 Park YunHwan](https://sadoruin-notes.notion.site/5c51dcd873f24feb86a75bb071d85855)              |           [📖 Kong JinHo](https://meadow-pram-047.notion.site/cs-8ea8d7f0d60c4a7890093edcb2e29a1d)           |              [📖 Yang JunMo](https://github.com/devjunmo/TIL/blob/main/CS_Study/csStudyWiki.md)              |  [📖 Lee YeEun](https://chlorinated-koi-491.notion.site/Computer-science-beffd78d679242a18e40e59cfc7c4205)  |
+|    [<img src="https://avatars.githubusercontent.com/u/55802893?v=4" width="100">](https://github.com/nowgnas)    | [<img src="https://avatars.githubusercontent.com/u/73810834?v=4" width="100"/>](https://github.com/Ryeohwan) | [<img src="https://avatars.githubusercontent.com/u/42470768?v=4" width="100"/>](https://github.com/irang6v6) |                                                                                                             |
+|                              [📖 Lee SangWon](https://github.com/nowgnas/CS-Study)                               |                              [📖 Ahn RyeoHwan](https://github.com/Ryeohwan/TRL)                              |               [📖 Nam Irang](https://irangeight.notion.site/a219bdf343844c3d9a3cb554d085af79)                |                                                                                                             |
 
 ### 싸탈의 전당
 
-| [<img src="https://avatars.githubusercontent.com/u/46861704?v=4" width="100"/>](https://github.com/YunYongWoon) | [<img src="https://avatars.githubusercontent.com/u/45252618?v=4" width="100">](https://github.com/yejin013) | [<img src="https://avatars.githubusercontent.com/u/43868550?v=4" width="100">](https://github.com/KangSuzy) |
-|:---------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-|                                 [📖 Yun YongWoon](https://velog.io/@yuyun0124)                                  |               [📖 Chae YeJin](https://yj-ssafy.notion.site/a95bc74fa67045e794c699f1e0d810cc)                |                              [📖 Kang SooJi](https://github.com/KangSuzy/TIL)                               |
+| [<img src="https://avatars.githubusercontent.com/u/46861704?v=4" width="100"/>](https://github.com/YunYongWoon) | [<img src="https://avatars.githubusercontent.com/u/45252618?v=4" width="100">](https://github.com/yejin013) | [<img src="https://avatars.githubusercontent.com/u/43868550?v=4" width="100">](https://github.com/KangSuzy) | [<img src="https://avatars.githubusercontent.com/u/80434024?v=4" width="100">](https://github.com/koy4648) |
+|:---------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+|                                 [📖 Yun YongWoon](https://velog.io/@yuyun0124)                                  |               [📖 Chae YeJin](https://yj-ssafy.notion.site/a95bc74fa67045e794c699f1e0d810cc)                |                              [📖 Kang SooJi](https://github.com/KangSuzy/TIL)                               |      [📖 Kim YoungSeo](https://telling-starburst-b5b.notion.site/CS-b494bcb89082445cb48b230788f269c2)      |
+
+### 망령
+
+| [<img src="https://avatars.githubusercontent.com/u/102861657?v=4" width="100">](https://github.com/minsu121x) |
+|:-------------------------------------------------------------------------------------------------------------:|
+|            [📖 Jo MinSu](https://charm-ocelot-88c.notion.site/CS-9b9a452599234b419afbbd803dd40c34)            |
+
 
 
 ## 🔗Links
@@ -70,31 +77,41 @@ SSAFY 8기 19반 cs스터디
 
 ## 📌Database
 
-| 주차  | 제목                                                             | 발표자 |
-|-----|----------------------------------------------------------------|-----|
-| 8주차 | ERD(Entity Relation Diagram)의 기본                               |     |
-|     | DEEP DIVE : 쇼핑몰 ERD 구축해보기                                      |     |
-|     | 트랜잭션, 커밋, 롤백 그리고 트랜잭션 전파                                       | 이상원 |
-|     | 트랜잭션의 특징 ACID                                                  | 이상원 |
-|     | 트랜잭션의 격리성                                                      | 김영서 |
-|     | 트랜잭션의 격리수준에 따른 현상 (팬텀리드, 더티리드 등)                               | 김영서 |
-|     | 트랜잭션의 격리수준(SERIALIZABLE, REPEATABLE_READ 등)                    | 김영서 |
-|     | 관계형데이터베이스와 NoSQL 데이터베이스의 차이와 MySQL, PostgreSQL, MongoDB, Redis | 공진호 |
-|     | 데이터베이스의 핵심, 스토리지엔진(innoDB, MyISAM, wiredtiger 차이)              | 공진호 |
-|     | 인덱스의 구조와 효율적인 이유                                               | 조민수 |
-|     | 인덱스 최적화 기법                                                     | 조민수 |
-|     | DEEP DIVE : clustered index와 non-clustered index와의 차이          | 조민수 |
-| 9주차 | 내부조인, 왼쪽조인, 오른쪽조인, 합집합 조인의 차이                                  |     |
-|     | 중첩루프조인, 정렬병합조인, 해시조인의 차이                                       |     |
-|     | DEEP DIVE : 데이터베이스의 데드락과 해결방법                                  | 박윤환 |
-|     | [데이터베이스 정규화과정 #1. 개념과 이상현상](./Contents/Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%A0%95%EA%B7%9C%ED%99%94%EA%B3%BC%EC%A0%95%20%231.%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81.md)                                      | 이예은 |
-|     | 데이터베이스 정규화과정 #2. 함수적 종속성                                       | 남이랑 |
-|     | 데이터베이스 정규화과정 #3. 제 1정규형                                        | 안려환 |
-|     | 데이터베이스 정규화과정 #4. 제 2정규형                                        | 안려환 |
-|     | 데이터베이스 정규화과정 #5. 제 3정규형                                        | 안려환 |
-|     | 데이터베이스 정규화과정 #6. 보이스 / 코드 정규형                                  | 양준모 |
-|     | 데이터베이스 정규화과정 #7. 정규화과정 정리                                      | 양준모 |
+| 주차  | 제목                                                                                                                      | 발표자 |
+|-----|-------------------------------------------------------------------------------------------------------------------------|-----|
+| 8주차 | ERD(Entity Relation Diagram)의 기본                                                                                        |     |
+|     | DEEP DIVE : 쇼핑몰 ERD 구축해보기                                                                                               |     |
+|     | [트랜잭션, 커밋, 롤백 그리고 트랜잭션 전파](./Contents/Database/트랜잭션,%20커밋,%20롤백%20그리고%20트랜잭션%20전파.md)                                   | 이상원 |
+|     | [트랜잭션의 특징 ACID](./Contents/Database/트랜잭션의%20특징%20ACID.md)                                                               | 이상원 |
+|     | [트랜잭션의 격리성](./Contents/Database/트랜잭션의%20격리성.md)                                                                         | 김영서 |
+|     | [트랜잭션의 격리수준에 따른 현상 (팬텀리드, 더티리드 등)](./Contents/Database/트랜잭션의%20격리수준에%20따른%20현상%20(팬텀리드,%20더티리드%20등).md)                 | 김영서 |
+|     | [트랜잭션의 격리수준(SERIALIZABLE, REPEATABLE_READ 등)](./Contents/Database/트랜잭션의%20격리수준(SERIALIZABLE,%20REPEATABLE_READ%20등).md) | 김영서 |
+|     | 관계형데이터베이스와 NoSQL 데이터베이스의 차이와 MySQL, PostgreSQL, MongoDB, Redis                                                          | 공진호 |
+|     | 데이터베이스의 핵심, 스토리지엔진(innoDB, MyISAM, wiredtiger 차이)                                                                       | 공진호 |
+|     | 인덱스의 구조와 효율적인 이유                                                                                                        | 조민수 |
+|     | 인덱스 최적화 기법                                                                                                              | 조민수 |
+|     | DEEP DIVE : clustered index와 non-clustered index와의 차이                                                                   | 조민수 |
+| 9주차 | 내부조인, 왼쪽조인, 오른쪽조인, 합집합 조인의 차이                                                                                           |     |
+|     | 중첩루프조인, 정렬병합조인, 해시조인의 차이                                                                                                |     |
+|     | DEEP DIVE : 데이터베이스의 데드락과 해결방법                                                                                           | 박윤환 |
+|     | [데이터베이스 정규화과정 #1. 개념과 이상현상](./Contents/Database/데이터베이스%20정규화과정%20%231.%20개념과%20이상현상.md)                                  | 이예은 |
+|     | 데이터베이스 정규화과정 #2. 함수적 종속성                                                                                                | 남이랑 |
+|     | [데이터베이스 정규화과정 #3. 제 1정규형](./Contents/Database/데이터베이스%20정규화과정%20-정규형.md)                                                 | 안려환 |
+|     | 데이터베이스 정규화과정 #4. 제 2정규형                                                                                                 | 안려환 |
+|     | 데이터베이스 정규화과정 #5. 제 3정규형                                                                                                 | 안려환 |
+|     | 데이터베이스 정규화과정 #6. 보이스 / 코드 정규형                                                                                           | 양준모 |
+|     | 데이터베이스 정규화과정 #7. 정규화과정 정리                                                                                               | 양준모 |
 
+## 📌OS
+
+| 주차   | 제목                        | 발표자 |
+|------|---------------------------|-----|
+| 10주차 | 운영체제와 컴퓨터 그리고 인터럽트        |     |
+|      | 시스템콜과 modebit             | 이예은 |
+|      | 메모리계층                     | 이예은 |
+|      | 가상메모리와 스와핑, 페이지폴트 그리고 스레싱 | 양준모 |
+|      | 프로그램과 프로세스 그리고 스레드의 차이    | 이상원 |
+|      | 프로세스의 메모리 구조              | 공진호 |
 
 ----
 <img height="50" src="https://user-images.githubusercontent.com/47595515/198835961-bd0e5b57-8f66-4308-a789-70ef11444cf4.png" width="221" alt="To Be Continued..."/>
